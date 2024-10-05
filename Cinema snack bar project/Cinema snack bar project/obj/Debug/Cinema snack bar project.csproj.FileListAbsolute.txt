@@ -1,0 +1,10 @@
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema snack bar project.csprojAssemblyReference.cache
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema_snack_bar_project.Form1.resources
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema_snack_bar_project.Properties.Resources.resources
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema snack bar project.csproj.GenerateResource.cache
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema snack bar project.csproj.CoreCompileInputs.cache
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\bin\Debug\Cinema snack bar project.exe.config
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\bin\Debug\Cinema snack bar project.exe
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\bin\Debug\Cinema snack bar project.pdb
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema snack bar project.exe
+D:\vs projeler\Cinema snack bar project\Cinema snack bar project\obj\Debug\Cinema snack bar project.pdb
